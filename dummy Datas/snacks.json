@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62dabd0f1d169899eaed7136"
+  },
+  "quantity": 20,
+  "image": "image/muruk.webp",
+  "name": "Muruk",
+  "price": {
+    "$numberDecimal": "5.62"
+  }
+},{
+  "_id": {
+    "$oid": "62dabfa11d169899eaed7137"
+  },
+  "quantity": 20,
+  "image": "image/rusk.webp",
+  "name": "Britania Sooji Rusk",
+  "price": {
+    "$numberDecimal": "13.32"
+  }
+},{
+  "_id": {
+    "$oid": "62dabfd21d169899eaed7138"
+  },
+  "quantity": 20,
+  "image": "image/moongdalsnack.jpg",
+  "name": "Haldigram MoonDal",
+  "price": {
+    "$numberDecimal": "2.77"
+  }
+},{
+  "_id": {
+    "$oid": "62dabffc1d169899eaed7139"
+  },
+  "quantity": 20,
+  "image": "image/peanut.jpg",
+  "name": "Peanut Cookie",
+  "price": {
+    "$numberDecimal": "5.25"
+  }
+},{
+  "_id": {
+    "$oid": "62dac0211d169899eaed713a"
+  },
+  "quantity": 20,
+  "image": "image/mixture.jpg",
+  "name": "Mixture",
+  "price": {
+    "$numberDecimal": "3.25"
+  }
+}]

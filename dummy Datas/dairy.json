@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62dac50c1d169899eaed7143"
+  },
+  "name": "yogurt",
+  "price": {
+    "$numberDecimal": "5.6"
+  },
+  "image": "image/yogurt.png",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62dac6ec1d169899eaed7144"
+  },
+  "name": "Paneer",
+  "price": {
+    "$numberDecimal": "5.5"
+  },
+  "image": "image/paneer.webp",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62daf0f91d169899eaed7145"
+  },
+  "name": "Goat Milk",
+  "price": {
+    "$numberDecimal": "7.5"
+  },
+  "image": "image/goatmilk.jpg",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62daf3dd1d169899eaed7148"
+  },
+  "name": "Sweetened Condensed Milk",
+  "price": {
+    "$numberDecimal": "7.5"
+  },
+  "image": "condensedmilk.webp",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62e19b35f4324e5147e25f18"
+  },
+  "name": "Ghee",
+  "price": {
+    "$numberDecimal": "7.5"
+  },
+  "image": "ghee.webp",
+  "quantity": 20
+}]

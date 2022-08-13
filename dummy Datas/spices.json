@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62d9dcb916109e1fbb3928f8"
+  },
+  "image": "images/elachi,jpg",
+  "name": "Elachi",
+  "price": {
+    "$numberDecimal": "15"
+  },
+  "quantity": 15
+},{
+  "_id": {
+    "$oid": "62dabb3d1d169899eaed7131"
+  },
+  "image": "image/cumin.jpeg",
+  "name": "Cumin",
+  "price": {
+    "$numberDecimal": "5"
+  },
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62dabc1f1d169899eaed7133"
+  },
+  "image": "image/blackpepper.jpg",
+  "name": "Black pepper",
+  "price": {
+    "$numberDecimal": "1.9"
+  },
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62dabc7e1d169899eaed7134"
+  },
+  "Name": "Coriander",
+  "Price": {
+    "$numberDecimal": "2"
+  },
+  "Quantity": 20,
+  "image": "image/coriander.jpg"
+},{
+  "_id": {
+    "$oid": "62dabca01d169899eaed7135"
+  },
+  "image": "image/fenugreek.webp",
+  "name": "Fenugreek",
+  "price": {
+    "$numberDecimal": "2"
+  },
+  "quantity": 20
+}]

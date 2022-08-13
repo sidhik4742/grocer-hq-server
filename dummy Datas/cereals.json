@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62daf3701d169899eaed7146"
+  },
+  "name": "Chana Dal",
+  "price": {
+    "$numberDecimal": "17.12"
+  },
+  "image": "image/channadal.webp",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62e19674f4324e5147e25f14"
+  },
+  "name": "Moong Dal",
+  "price": {
+    "$numberDecimal": "17.72"
+  },
+  "image": "image/moongdal.webp",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62e196e2f4324e5147e25f15"
+  },
+  "name": "Urad Dal",
+  "price": {
+    "$numberDecimal": "18.72"
+  },
+  "image": "image/uraddal.webp",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62e19754f4324e5147e25f16"
+  },
+  "name": "Toor Dal",
+  "price": {
+    "$numberDecimal": "18.13"
+  },
+  "image": "image/toordal.webp",
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62e197c4f4324e5147e25f17"
+  },
+  "name": "Soya chunks",
+  "price": {
+    "$numberDecimal": "8.35"
+  },
+  "image": "image/soyachunks.webp",
+  "quantity": 20
+}]

@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62dac0411d169899eaed713b"
+  },
+  "name": "Garm Masala",
+  "price": {
+    "$numberDecimal": "5.25"
+  },
+  "quantity": 20,
+  "image": "image/garammasala.jpg"
+},{
+  "_id": {
+    "$oid": "62dac09b1d169899eaed713c"
+  },
+  "image": "image/chillipowder.webp",
+  "name": "Chilli Powder",
+  "price": {
+    "$numberDecimal": "7.35"
+  },
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62dac0c51d169899eaed713d"
+  },
+  "image": "image/turmericpowder.webp",
+  "name": "Turmeric Powder",
+  "price": {
+    "$numberDecimal": "3.25"
+  },
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62dac0f91d169899eaed713e"
+  },
+  "image": "image/corianderpowder.jpg",
+  "name": "Coriander Powder",
+  "price": {
+    "$numberDecimal": "3.25"
+  },
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "62dac1141d169899eaed7140"
+  },
+  "image": "image/chickenmasala.jpg",
+  "name": "Chicken Masala",
+  "price": {
+    "$numberDecimal": "2.25"
+  },
+  "quantity": 20
+}]

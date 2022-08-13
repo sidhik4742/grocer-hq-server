@@ -1,0 +1,26 @@
+_id,category_id,image,name,price,quantity
+62dac0411d169899eaed713b,62f4d5e6383d328b225729c2,image/garammasala.jpg,Garm Masala,5.25,20
+62dac09b1d169899eaed713c,62f4d5e6383d328b225729c2,image/chillipowder.webp,Chilli Powder,7.35,20
+62dac0c51d169899eaed713d,62f4d5e6383d328b225729c2,image/turmericpowder.webp,Turmeric Powder,3.25,20
+62dac0f91d169899eaed713e,62f4d5e6383d328b225729c2,image/corianderpowder.jpg,Coriander Powder,3.25,20
+62dac1141d169899eaed7140,62f4d5e6383d328b225729c2,image/chickenmasala.jpg,Chicken Masala,2.25,20
+62daf3701d169899eaed7146,62f4d59e383d328b225729c0,image/channadal.webp,Chana Dal,17.12,20
+62e19674f4324e5147e25f14,62f4d59e383d328b225729c0,image/moongdal.webp,Moong Dal,17.72,20
+62e196e2f4324e5147e25f15,62f4d59e383d328b225729c0,image/uraddal.webp,Urad Dal,18.72,20
+62e19754f4324e5147e25f16,62f4d59e383d328b225729c0,image/toordal.webp,Toor Dal,18.13,20
+62e197c4f4324e5147e25f17,62f4d59e383d328b225729c0,image/soyachunks.webp,Soya chunks,8.35,20
+62dac50c1d169899eaed7143,62f4d5ce383d328b225729c1,image/yogurt.png,yogurt,5.6,20
+62dac6ec1d169899eaed7144,62f4d5ce383d328b225729c1,image/paneer.webp,Paneer,5.5,20
+62daf0f91d169899eaed7145,62f4d5ce383d328b225729c1,image/goatmilk.jpg,Goat Milk,7.5,20
+62daf3dd1d169899eaed7148,62f4d5ce383d328b225729c1,condensedmilk.webp,Sweetened Condensed Milk,7.5,20
+62e19b35f4324e5147e25f18,62f4d5ce383d328b225729c1,ghee.webp,Ghee,7.5,20
+62dabd0f1d169899eaed7136,62f4d605383d328b225729c3,image/muruk.webp,Muruk,5.62,20
+62dabfa11d169899eaed7137,62f4d605383d328b225729c3,image/rusk.webp,Britania Sooji Rusk,13.32,20
+62dabfd21d169899eaed7138,62f4d605383d328b225729c3,image/moongdalsnack.jpg,Haldigram MoonDal,2.77,20
+62dabffc1d169899eaed7139,62f4d605383d328b225729c3,image/peanut.jpg,Peanut Cookie,5.25,20
+62dac0211d169899eaed713a,62f4d605383d328b225729c3,image/mixture.jpg,Mixture,3.25,20
+62d9dcb916109e1fbb3928f8,62f4d619383d328b225729c4,"images/elachi,jpg",Elachi,15,15
+62dabb3d1d169899eaed7131,62f4d619383d328b225729c4,image/cumin.jpeg,Cumin,5,20
+62dabc1f1d169899eaed7133,62f4d619383d328b225729c4,image/blackpepper.jpg,Black pepper,1.9,20
+62dabc7e1d169899eaed7134,62f4d619383d328b225729c4,image/coriander.jpg,Coriander,2,20
+62dabca01d169899eaed7135,62f4d619383d328b225729c4,image/fenugreek.webp,Fenugreek,2,20
